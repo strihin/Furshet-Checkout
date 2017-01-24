@@ -1,0 +1,10 @@
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\TestBySeleniumTitorialXXVI.X.exe.config
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\TestBySeleniumTitorialXXVI.X.exe
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\TestBySeleniumTitorialXXVI.X.pdb
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\WebDriver.dll
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\WebDriver.Support.dll
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\WebDriver.xml
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\bin\Debug\WebDriver.Support.xml
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\obj\Debug\TestBySeleniumTitorialXXVI.X.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\obj\Debug\TestBySeleniumTitorialXXVI.X.exe
+c:\users\александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\TestBySeleniumTitorialXXVI.X\obj\Debug\TestBySeleniumTitorialXXVI.X.pdb

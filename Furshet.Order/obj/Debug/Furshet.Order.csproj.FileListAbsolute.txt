@@ -1,0 +1,20 @@
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.exe.config
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.exe
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.pdb
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.dll
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.Support.dll
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.xml
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.Support.xml
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.csprojResolveAssemblyReference.cache
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.exe
+C:\Users\Александр\documents\visual studio 2015\Projects\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.pdb
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.exe.config
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.exe
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.pdb
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.exe
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\Furshet.Order.pdb
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.dll
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.Support.dll
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.xml
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\bin\Debug\WebDriver.Support.xml
+C:\Users\Александр\Desktop\TestBySeleniumTitorialXXVI.X\Furshet.Order\obj\Debug\Furshet.Order.csprojResolveAssemblyReference.cache
